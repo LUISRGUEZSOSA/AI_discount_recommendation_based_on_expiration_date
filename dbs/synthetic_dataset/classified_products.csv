@@ -1,0 +1,31 @@
+Product_Name,Brand,Category,Usage_Frequency,Price_USD,Rating,Number_of_Reviews,Product_Size,Skin_Type,Gender_Target,Packaging_Type,Main_Ingredient,Cruelty_Free,Country_of_Origin,Product Name,Rotation,id
+Magic Eyeliner,Shiseido,CC Cream,Weekly,149.16,4.4,6158,50ml,Sensitive,Female,Jar,Shea Butter,True,USA,Product 21,High,1
+Perfect Lip Liner,Huda Beauty,Lip Gloss,Weekly,62.28,3.7,7809,150ml,Dry,Male,Jar,Glycerin,False,UK,Product 22,High,2
+Divine Highlighter,Bourjois,Mascara,Occasional,51.65,2.1,3815,250ml,Dry,Female,Bottle,Shea Butter,True,Australia,Product 23,High,3
+Ultra Highlighter,Shiseido,Primer,Daily,71.25,4.0,5749,150ml,Oily,Female,Bottle,Shea Butter,False,France,Product 24,High,4
+Ultra Lip Gloss,Kiehl’s,Eye Shadow,Weekly,78.36,1.9,3534,30ml,Normal,Male,Tube,Aloe Vera,False,USA,Product 25,High,5
+Divine Primer,Kiehl’s,Serum,Weekly,102.88,4.6,9311,50ml,Oily,Male,Stick,Hyaluronic Acid,False,USA,Product 26,High,6
+Magic Setting Spray,Huda Beauty,Bronzer,Occasional,45.24,1.6,9014,150ml,Sensitive,Female,Tube,Vitamin C,False,Australia,Product 27,High,7
+Ultra Eyeliner,Huda Beauty,Eyeliner,Weekly,89.35,2.1,7837,100ml,Oily,Female,Bottle,Vitamin C,False,Australia,Product 28,High,8
+Ultra Blush,Kiehl’s,Contour,Weekly,115.69,2.2,4621,150ml,Oily,Unisex,Stick,Hyaluronic Acid,True,USA,Product 29,High,9
+Ultra Eyeliner,Kiehl’s,Lip Gloss,Monthly,136.35,2.1,9142,250ml,Normal,Unisex,Jar,Aloe Vera,False,Germany,Product 30,High,10
+Super Face Oil,Kiehl’s,Lip Gloss,Monthly,21.42,4.3,461,50ml,Combination,Unisex,Stick,Salicylic Acid,False,Italy,Product 31,Medium,11
+Ultra Eye Shadow,Kiehl’s,Blush,Weekly,35.66,2.7,3081,100ml,Normal,Male,Jar,Glycerin,False,Italy,Product 32,Medium,12
+Super BB Cream,Shiseido,Concealer,Daily,131.63,3.6,9990,150ml,Dry,Female,Spray,Shea Butter,False,South Korea,Product 33,Medium,13
+Ultra Lipstick,Huda Beauty,Bronzer,Weekly,11.44,1.8,3305,250ml,Normal,Male,Jar,Salicylic Acid,True,Germany,Product 34,Medium,14
+Perfect Powder,Shiseido,Highlighter,Weekly,47.15,4.1,6406,100ml,Combination,Unisex,Bottle,Vitamin C,False,USA,Product 35,Medium,15
+Magic Setting Spray,Clinique,Serum,Occasional,113.65,2.3,3028,50ml,Normal,Unisex,Stick,Retinol,True,Australia,Product 36,Medium,16
+Divine BB Cream,Shiseido,Primer,Weekly,86.62,4.3,6736,50ml,Combination,Unisex,Bottle,Retinol,False,Germany,Product 37,Medium,17
+Super Bronzer,Huda Beauty,Mascara,Occasional,86.57,1.2,5072,200ml,Oily,Female,Bottle,Glycerin,True,Italy,Product 38,Medium,18
+Divine BB Cream,Clinique,Lip Liner,Occasional,57.84,4.3,9804,30ml,Sensitive,Female,Tube,Hyaluronic Acid,True,Italy,Product 39,Medium,19
+Divine Lipstick,Huda Beauty,Foundation,Daily,72.31,2.7,6582,200ml,Oily,Unisex,Stick,Glycerin,False,Italy,Product 40,Medium,20
+Super Serum,Huda Beauty,Lipstick,Monthly,79.14,4.6,4266,200ml,Sensitive,Female,Jar,Shea Butter,False,USA,Product 41,Medium,21
+Perfect Makeup Remover,Shiseido,CC Cream,Monthly,31.52,1.5,1882,250ml,Normal,Male,Compact,Salicylic Acid,False,USA,Product 42,Medium,22
+Perfect Blush,Clinique,Powder,Monthly,136.64,2.3,9817,100ml,Sensitive,Male,Tube,Aloe Vera,True,UK,Product 43,Medium,23
+Ultra Blush,Huda Beauty,Moisturizer,Monthly,44.62,4.1,7991,200ml,Oily,Female,Bottle,Shea Butter,True,UK,Product 44,Medium,24
+Super Lip Liner,Kiehl’s,Cleanser,Daily,108.54,4.8,999,150ml,Normal,Unisex,Bottle,Salicylic Acid,True,Australia,Product 45,Medium,25
+Super Cleanser,Bourjois,CC Cream,Occasional,65.16,3.9,6707,100ml,Oily,Female,Stick,Salicylic Acid,False,Australia,Product 46,Low,26
+Ultra BB Cream,Shiseido,Cleanser,Daily,35.49,1.4,3418,100ml,Combination,Female,Compact,Vitamin C,False,USA,Product 47,Low,27
+Super BB Cream,Huda Beauty,Primer,Monthly,57.36,3.8,3738,50ml,Sensitive,Male,Tube,Shea Butter,True,Australia,Product 48,Low,28
+Ultra Face Oil,Shiseido,Primer,Monthly,19.66,2.2,9700,100ml,Dry,Unisex,Bottle,Hyaluronic Acid,True,Australia,Product 49,Low,29
+Super CC Cream,Kiehl’s,Powder,Occasional,26.93,3.7,7245,30ml,Oily,Male,Tube,Hyaluronic Acid,False,Australia,Product 50,Low,30
